@@ -63,6 +63,5 @@ function deletePending() {
 }
 
 
-
 // when online, check database function above runs
 window.addEventListener("online", checkDatabase);
